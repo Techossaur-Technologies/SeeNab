@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5f0a8cb22bd2641b5d08468618b979c64d376aee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_4365ee530bdb70d91d0d59d46188d961bf81172d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43db2f5c98a3d4890bbb0cc82dcbe29136de6b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a887d8c56409483d0f07a7aec2fe9433a91f18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d6c14c8022217df910dc459067c21843182de619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ca4c310c8fdfceb422755072012f3c0242c2d031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_fdbe01d5ef2f9f878984dea56f10c86b6f9269a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_638525fc25a9ee0ad4b584e2e057a874e5141855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_20522b8549cfe709e01ed079d59aba98c11d6212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_227a01869c554f6e4ee13c60896aa994e79928e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5044470d61b1738a84dacc6916ee4f3ac35d6b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2efd7129415d4207286b8329fe90f00a4246f858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_740f3bd376b99326606bb0f52e967c17687dfd26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2a0d66bd5d7c5140281759be83ea73a6491841c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3d08bbf60f7f826c6197879e7e1bf7d6f11f90ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Coredigita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_0a540f351c421c09a20112705165a73091d24d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_88cedddca0f6d8284ed53ad9765fc54288bd972b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkShop\Android\SeeNab\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\WorkShop\Android\SeeNab\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1e103576f9a296716230463b77d69f5644dde300.jar" />
+    </item>
+
+</items>

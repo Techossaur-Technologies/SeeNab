@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkShop\\Android\\SeeNab\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_users_drawer.xml",
+        "source": "D:\\WorkShop\\Android\\SeeNab\\app\\src\\main\\res\\menu\\activity_users_drawer.xml"
+    },
+    {
+        "merged": "D:\\WorkShop\\Android\\SeeNab\\app\\build\\intermediates\\res\\merged\\debug\\menu\\users.xml",
+        "source": "D:\\WorkShop\\Android\\SeeNab\\app\\src\\main\\res\\menu\\users.xml"
+    }
+]
